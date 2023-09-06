@@ -7,4 +7,4 @@ export const Calculadora = () => {
             <Teclado></Teclado>
         </div>
     )
-}
+} 
