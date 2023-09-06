@@ -1,0 +1,11 @@
+.calc {
+    width: 100vw;
+    height: calc(100vh - 2em);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #161616;
+    padding: 1em 0; 
+  }
+  

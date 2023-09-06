@@ -1,0 +1,29 @@
+.tela {
+    width: 80vw;
+    height: 25vh;
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'Geo Sans Light';
+    border-radius: 10px;
+  }
+
+.tela_num {
+  width: 100%;
+  font-size: 4em;
+  color: #fff;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.xs {
+  font-size: 0.8em;
+}
+
+.sm {
+  font-size: 1.6em;
+}
+
+.md {
+  font-size: 2.4em;
+}

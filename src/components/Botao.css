@@ -1,0 +1,33 @@
+button {
+    width: 75px;
+    height: 75px;
+    border-radius: 75px;
+    border: none;
+    font-size: 1.5em;
+    transition: 0.5s;
+}
+
+button:hover {
+    background-color: #fff;
+    color: #252525;
+    cursor: pointer;
+}
+
+.btn-num {
+    background-color: #505050;
+    color: #fff;
+}
+
+.btn-op {
+    background-color: #FF9500;
+    color: #fff;
+}
+
+.btn-func {
+    background-color: #D4D4D2;
+}
+
+.zero {
+    grid-area: zr;
+    width: 36vw;
+}

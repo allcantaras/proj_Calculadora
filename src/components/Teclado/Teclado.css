@@ -1,0 +1,15 @@
+.teclado {
+    width: 80vw;
+    height: 60vh;
+    display: grid;
+    grid-template-areas:
+        ". . . ."
+        ". . . ."
+        ". . . ."
+        ". . . ."
+        "zr zr . .";
+    grid-template-columns: repeat(4, 20vw);
+    grid-template-rows: repeat(5, 12vh);
+    align-items: center;
+    justify-items: flex-end;
+}

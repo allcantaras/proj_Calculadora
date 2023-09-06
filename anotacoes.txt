@@ -1,0 +1,2 @@
+- como duplicar o espaço ocupado pelo numero 0? (grid)
+- iniciar programação da calculadora
