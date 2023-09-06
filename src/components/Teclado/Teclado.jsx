@@ -50,7 +50,7 @@ export const Teclado = () => {
                 setLastOp('')
                 setRes(r + '')
                 break;
-            case '-':
+            case '-': 
                 r = lastNum + parseInt(res)
                 setLastNum(r)
                 setLastOp('')
